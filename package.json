@@ -1,0 +1,14 @@
+{
+  "name": "enigma-bot",
+  "version": "1.0.0",
+  "description": "Bot for Enigma Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammad Nawawi",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
