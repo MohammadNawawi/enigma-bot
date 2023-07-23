@@ -9,3 +9,6 @@
 
 #local env
 .env*.local
+
+# Production
+.env

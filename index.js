@@ -1,9 +1,8 @@
 const { Client, Events, GatewayIntentBits } = require("discord.js");
-
 const client = new Client({ intents: [GatewayIntentBits.Guilds] });
 
 const token =
-  "MTEzMjIyMzg0MTkzMDg0NjI2OA.GwY8Ee.kbnOeiLxfHqTGd7DSvCTNRg2Wb5h136ELtfSfQ";
+  "MTEzMjIyMzg0MTkzMDg0NjI2OA.GRbpyA.pvqsFqhPMpGx2YMuIUae1-DMYhSqnq1pSwX-fY";
 
 client.on("ready", () => {
   console.log("Bot Online");
